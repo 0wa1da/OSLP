@@ -305,7 +305,6 @@ a:hover {
     background-color: rgba(0,0,0,.8);
     border-radius: 5px;
     position: relative;
-    /*overflow-x:scroll; */
 }
 
 .container_contact>p {
