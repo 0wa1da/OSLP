@@ -1,9 +1,6 @@
 *{
 	scroll-padding-top: 7.7vh;
 }
-html{
-	scroll-behavior: smooth;
-}
 nav {
 	height:7.7vh;
 	width: 100vw;
